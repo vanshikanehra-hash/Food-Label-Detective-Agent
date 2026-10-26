@@ -1,0 +1,7 @@
+# Core dependencies
+requests>=2.31.0
+streamlit>=1.30.0
+
+# Optional: enables LLM-generated explanations via Claude.
+# The project runs fully offline without it (deterministic template writer).
+anthropic>=0.40.0
