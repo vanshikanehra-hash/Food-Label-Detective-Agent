@@ -168,8 +168,7 @@ the final eat / don't-eat decision with the human.
 
 ## 12. Team
 
-- Vatsal Jain
-- Vidit Jain
+- Sanika Nehra
 - Vanshika Nehra
 
 ---
