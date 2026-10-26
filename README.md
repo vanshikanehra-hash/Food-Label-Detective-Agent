@@ -5,8 +5,6 @@ English, flags health and dietary concerns, and respects each user's
 preferences (vegan, low-sugar, allergy caution) — while keeping the human in
 control of the final decision.
 
-> **Capstone Project — Agentic AI Track** · Domain: Consumer safety & nutrition awareness
-
 ---
 
 ## 1. Problem Statement
